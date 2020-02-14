@@ -24,9 +24,4 @@ This project is forked by the first uploader but the entire project was created 
     the Free Software Foundation, either version 3 of the License, or
     any later version.
 
-    This program is distributed in the hope that it will be useful,
-    but WITHOUT ANY WARRANTY; without even the implied warranty of
-    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
-    GNU General Public License for more details.
-
     For more information, see https://www.gnu.org/licenses/.
