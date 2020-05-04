@@ -17,7 +17,9 @@ Pseu2Code is a program that helps developing algorithms. Pseu2Code helps the use
 This project is forked by the first uploader but the entire project was created by a five man group.
 
 ## License
-    Copyright (C) 2018  scavbob
+     Copyright (C) 2007 Free Software Foundation, Inc. <http://fsf.org/>
+    Everyone is permitted to copy and distribute verbatim copies
+    of this license document and changing it is allowed.
 
     This program is free software: you can redistribute it and/or modify
     it under the terms of the GNU General Public License as published by
